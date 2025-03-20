@@ -1,0 +1,14 @@
+{
+  "name": "Core",
+  "references": [
+    "GUID:e15fb1a3ec3b8a24f98ba916b6c45bbd",
+    "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+    "Gun",
+    "ObjectPool",
+    "GUID:3c8cbf6c88ee66644bdaa2d7ec1e9bf5",
+    "GUID:484e35ad4deb50945929b21d5da79e3c",
+    "GUID:cba21c9edd744bc1b0c624fd58b0c4c6",
+    "GUID:3c84e6d3fa7d46cfbd389eeefb9c5c30",
+    "GUID:1d973e3b0a6e46a4a5a33a78b36c4ef5"
+  ]
+}

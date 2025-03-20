@@ -1,0 +1,10 @@
+{
+  "name": "Score",
+  "references": [
+    "GUID:484e35ad4deb50945929b21d5da79e3c",
+    "ObjectPool",
+    "Unity.TextMeshPro",
+    "GUID:9360df9be062ecf42a68d804d6909efa",
+    "Analytics"
+  ]
+}

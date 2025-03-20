@@ -1,0 +1,8 @@
+{
+  "name": "ObjectPool",
+  "references": [
+    "Enemy",
+    "CoreInterfaces",
+    "Zenject"
+  ]
+}

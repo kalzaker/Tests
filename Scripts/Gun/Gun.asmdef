@@ -1,0 +1,9 @@
+{
+  "name": "Gun",
+  "references": [
+    "Enemy",
+    "Score",
+    "ObjectPool",
+    "Zenject"
+  ]
+}

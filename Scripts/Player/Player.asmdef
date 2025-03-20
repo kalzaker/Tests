@@ -1,0 +1,14 @@
+{
+  "name": "Player",
+  "references": [
+    "Enemy",
+    "Score",
+    "Unity.InputSystem",
+    "CoreInterfaces",
+    "Unity.TextMeshPro",
+    "Gun",
+    "ObjectPool",
+    "Zenject",
+    "Analytics"
+  ]
+}
